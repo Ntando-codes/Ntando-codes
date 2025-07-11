@@ -14,7 +14,7 @@ Hi, I'm Ntando, a software developer passionate about building impactful web sol
 ## 🛠️ Skills
 
 - **Languages:** Java, Python, C#
-- **Web:** HTML, JavaScript, Responsive UI, SEO, UX, Form Validation
+- **Web:** HTML, JavaScript, Responsive UI, SEO, UX, Form Validation,Figma
 - **Other:** Cybersecurity basics, memory management (Best Fit/First Fit), JUnit testing
 
 ---

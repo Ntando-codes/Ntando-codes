@@ -1,4 +1,4 @@
-# 👾 Ntando Spaceman Nxumalo
+# 👾 Ntando Nxumalo
 
 **Software Developer | Web Enthusiast**  
 Johannesburg, South Africa

@@ -21,7 +21,7 @@ Hi, I'm Ntando, a software developer passionate about building impactful web sol
 
 ## 🚀 Projects
 
-- **[Tshabalala Towing Services Website](tshabalalatowingservices.co.za)**
+- **[Tshabalala Towing Services Website](https://tshabalalatowingservices.co.za)**
   - Designed and implemented a full-featured business website.
   - Integrated WhatsApp contact, splash page, and SEO best practices.
   - Focused on secure web development and user experience.

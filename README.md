@@ -1,6 +1,6 @@
 # 👾 Ntando Nxumalo
 
-**Software Developer | Web Enthusiast**  
+**Software Developer **  
 Johannesburg, South Africa
 
 ---

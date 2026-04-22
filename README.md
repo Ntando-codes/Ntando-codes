@@ -1,4 +1,8 @@
-<p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=Ntando-Codes&reversal=true&animation=twinkling&textBg=false&fontAlign=46&descAlign=50"/>
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21rbjdpZHRrbTYyanVwMGZubHc5MG9xY3JyMWRhOWl1aGNoOHUyMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CVtNe84hhYF9u/giphy.gif" alt="Funny GIF">
 </p>
 

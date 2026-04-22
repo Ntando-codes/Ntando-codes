@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="[https://media.giphy.com/media/l7zabeVIt16efVp6wg/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJyMTF6dDhpenZodGI4cHM3bWRvcnp2YWQ2Z2gybDB1Znp0OXBneSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif)" width="500"/>
+<p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21rbjdpZHRrbTYyanVwMGZubHc5MG9xY3JyMWRhOWl1aGNoOHUyMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CVtNe84hhYF9u/giphy.gif" alt="Funny GIF">
 </p>
+
 # 💫 About Me:
 Hi, I’m Ntando Nxumalo — a Johannesburg-based Software Development, Backend & Systems Developer focused on building practical, real-world software.<br><br>I’m currently in my Final year of a Diploma in Software Development, with over 3 years of hands-on experience as an Software Developer. That background shapes how I build systems — with a strong focus on reliability, troubleshooting, and real-world performance.<br><br>I work across a diverse stack including TypeScript, React, Node.js, PHP, C#, Java, Python, MySQL, and Docker, but my core focus is backend development, networking, and system-level thinking.<br><br>I’ve built projects such as a Banking System POC (C#), a custom HTTP server (Python), a Forex automation bot, and a tech repair management system (Java). I’m currently developing a TCP-based chat system to deepen my understanding of sockets, real-time communication, and distributed systems.<br><br>My goal is to move beyond theory and consistently prove my skills by building systems that are functional, scalable, and designed for real-world use — not just academic projects.<br><br>I’m continuously learning, building, and refining my craft to become a developer who understands not just how to code, but how systems actually work.
 
@@ -18,7 +19,7 @@ Hi, I’m Ntando Nxumalo — a Johannesburg-based Software Development, Backend 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ntando-codes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
 

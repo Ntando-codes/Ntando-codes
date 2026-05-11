@@ -1,156 +1,27 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&height=300&color=gradient&text=Ntando-Codes&reversal=true&animation=twinkling&textBg=false&fontAlign=46&descAlign=50"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:0d1117,50:00d9ff,100:0d1117&text=NTANDO%20NXUMALO&fontColor=00d9ff&fontSize=42&fontAlignY=40&desc=Backend%20%26%20Systems%20Developer%20%2F%2F%20JHB%2C%20ZA&descFontColor=7ee787&descSize=16&descAlignY=62&animation=twinkling&stroke=00d9ff&strokeWidth=2"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN21rbjdpZHRrbTYyanVwMGZubHc5MG9xY3JyMWRhOWl1aGNoOHUyMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CVtNe84hhYF9u/giphy.gif" alt="Funny GIF">
+</p>
 
-<br/>
+# 💫 About Me:
+Hi, I’m Ntando Nxumalo — a Johannesburg-based Software Development, Backend & Systems Developer focused on building practical, real-world software.<br><br>I’m currently in my Final year of a Diploma in Software Development, with over 3 years of hands-on experience as an Software Developer. That background shapes how I build systems — with a strong focus on reliability, troubleshooting, and real-world performance.<br><br>I work across a diverse stack including TypeScript, React, Node.js, PHP, C#, Java, Python, MySQL, and Docker, but my core focus is backend development, networking, and system-level thinking.<br><br>I’ve built projects such as a Banking System POC (C#), a custom HTTP server (Python), a Forex automation bot, and a tech repair management system (Java). I’m currently developing a TCP-based chat system to deepen my understanding of sockets, real-time communication, and distributed systems.<br><br>My goal is to move beyond theory and consistently prove my skills by building systems that are functional, scalable, and designed for real-world use — not just academic projects.<br><br>I’m continuously learning, building, and refining my craft to become a developer who understands not just how to code, but how systems actually work.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=650&height=40&lines=_%20Building+systems+that+actually+work.;_%20TCP+sockets+%7C+distributed+comms+%7C+real-time;_%20C%23+%7C+Python+%7C+TypeScript+%7C+Java+%7C+Node.js;_%20Johannesburg+%E2%86%92+Everywhere" alt="Typing SVG" />
 
-<br/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/ntando-nxumalo/)] [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ntando.codes@gmail.com) 
 
-[![LinkedIn](https://img.shields.io/badge/-%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/ntando-nxumalo/)
-[![Email](https://img.shields.io/badge/-%20ntando.codes%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:ntando.codes@gmail.com)
-[![GitHub](https://img.shields.io/badge/-%20Ntando--codes-ffffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Ntando-codes)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=plastic&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=plastic&logo=Apache%20Maven&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=plastic&logo=testing-library&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=plastic&logo=rancher&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ntando-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ntando-codes&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ntando-codes&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ntando-codes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-![](https://komarev.com/ghpvc/?username=Ntando-codes&style=for-the-badge&color=00d9ff&label=PROFILE+VIEWS&abbreviated=true)
-
-</div>
-
----
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"/> &nbsp; `$ ./whoami.sh`
-
-```yaml
-╔══════════════════════════════════════════════════════════════╗
-║  name       →  Ntando Nxumalo                               ║
-║  role       →  Backend & Systems Developer                   ║
-║  location   →  Johannesburg, South Africa 🇿🇦               ║
-║  education  →  Final Year — Diploma in Software Development  ║
-║  experience →  3+ years hands-on development                 ║
-║  focus      →  Backend · Networking · System Architecture    ║
-║  currently  →  TCP-based chat system (sockets + real-time)   ║
-║  goal       →  Ship real systems, not just academic code     ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"/> &nbsp; `$ ls -la ./projects`
-
-<div align="center">
-
-| PROJECT | STACK | STATUS | WHAT IT DOES |
-|:--------|:------|:------:|:-------------|
-| `banking-system-poc` | C# · .NET | ✅ SHIPPED | Core banking: accounts, transactions, balance logic |
-| `http-server-py` | Python · Sockets | ✅ SHIPPED | HTTP/1.1 from scratch — zero frameworks, raw protocol |
-| `tcp-chat-system` | Python · TCP | 🔄 BUILDING | Multi-client real-time chat via raw sockets |
-| `repair-mgmt-system` | Java · Spring | ✅ SHIPPED | Job tracking, technicians, customer records |
-| `forex-bot` | Python | ✅ SHIPPED | Automated signals + execution from live market data |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="28"/> &nbsp; `$ cat tech_stack.json`
-
-<div align="center">
-
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-
-### Backend & Runtime
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GH_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/> &nbsp; `$ git log --oneline --graph`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ntando-codes&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF&include_all_commits=true&count_private=true&border_radius=10"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ntando-codes&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_radius=10"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Ntando-codes&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF&sideNums=C9D1D9&sideLabels=7d8590&dates=7d8590&border_radius=10" />
-
-<br/>
-
-[![Ntando's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ntando-codes&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&area_color=00D9FF&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## `$ cat progress.log`
-
-```bash
-SYSTEM BOOT LOG — ntando-dev v3.0
-──────────────────────────────────────────────────────────────
-[████████████████████] 100%  Diploma in Software Development
-[████████████████░░░░]  82%  Backend Systems Architecture
-[█████████████░░░░░░░]  65%  TCP / Socket Programming
-[████████████░░░░░░░░]  60%  Distributed Systems
-[████░░░░░░░░░░░░░░░░]  20%  Open Source Contributions
-[██░░░░░░░░░░░░░░░░░░]  10%  Production SaaS
-──────────────────────────────────────────────────────────────
-STATUS: ONLINE | BUILDING | SHIPPING
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## `$ ./trophies.sh`
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ntando-codes&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-
-### `$ echo "Build real. Ship fast. Learn always."`
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d9ff&height=100&section=footer&text=ntando-codes&fontColor=00d9ff&fontSize=16&fontAlignY=75&animation=fadeIn"/>
-
-</div>
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
